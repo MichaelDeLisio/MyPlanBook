@@ -52,7 +52,7 @@ The information is stored in the database, this way whenever you leave the app y
 
 ### Manage Finances
 
-<img align="right" src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/manageFinances1.png" width="216" height="384">
+<img align="right" src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/manageFinances1.png" width="216" height="384">
 
 After loading transactions into the account either manually or automatically,
 the **Manage Finances** feature graphically displays the transactions in a user friendly way. The first pie chart labeled "Transactions by Category" displays the top 5 transactions by amount over the given year. Clicking on a percentile of the pie chart produces a information box about that transaction category. 
@@ -73,7 +73,7 @@ This is another standard signup page, asking for your name, username, password a
 
 ### Enter Wish
 
-<img align="right" src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/wishlist.png" width="216" height="384">
+<img align="right" src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/wishList.png" width="216" height="384">
 
 At the top of this page, there is an input zone which allows user to enter their wishes, and on the right side of the input zone, there is a button named "ADD TO LIST". This button can not be clicked if user hasn't entered anything. After the user click this button, the entered wish will be saved and will show up at the middle of this page. There is a wish list at the middle of this page, all entered wishes will be showed up there. The wish list part was designed to be a scrollview so no matter how many wishes the user entered, it is able to store all of them.
 
@@ -89,7 +89,7 @@ At the right side of the "DELETE" button, there is another button named "SHARE".
 
 This is the main page you will see after login. You can select to go to Calender, Financial Hub, Body Log, Wish List, or Setting page from this page.
 <p float="left">
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/MainPage.png" width="216" height="384" />
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/MainPage.png" width="216" height="384" />
 </p>
 
 ## Setting Page
@@ -102,15 +102,15 @@ This is the page where you can change your account password. You are asked to en
 This is the page you can provide any feedback to the developers. You can type in text box and click Submit to upload your advice.
 
 <p float="left">
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/profile.png" width="216" height="384" />
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/ChangePassword.png" width="216" height="384" /> 
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/Feedback.png" width="216" height="384" />
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/profile.png" width="216" height="384" />
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/ChangePassword.png" width="216" height="384" /> 
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/Feedback.png" width="216" height="384" />
 </p>
 
 ### Profile
 
-<img align="right" src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/profilesetting.png" width="216" height="384">
-<img align="right" src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/Profile.PNG" width="216" height="384">
+<img align="right" src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/profilesetting.png" width="216" height="384">
+<img align="right" src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/Profile.PNG" width="216" height="384">
 
 This page allows the user to view their personal information such as name, email addess, account number, phone number, city, and country. This is a scrollview so it is suitable for most of the screen sizes. It also allows the user to choose their icon from the android gallery. Whenever the user click the icon at the top of this page, a selector will pop up which allows user to choose picture from android gallery. If user wants their own picture to be the icon, they can also upload their own pictures to the android gallery first, and then choose from the gallery.
 
@@ -122,7 +122,7 @@ At the bottom of the Profile page, there is a button named "CHANGE INFORMATION" 
 
 ### Add Events
 
-<img align="right" src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/calendar.png" width="216" height="384">
+<img align="right" src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/calendar.png" width="216" height="384">
 
 This feature of the Calendar allows the user to input events into the calendar. When you select a certain date on the calendar then click on "Add Event", the user is presented with a new activity where they can input their event details. The user can specify a description for the event, a time for the event and they can choose a color to be displayed on the calendar for that event. Once the event is ready you click "save" to save the event into the calendar. You can then view the event with its corresponding color on the calendar.
 
@@ -142,7 +142,7 @@ As for the calorie logger, you'll see the total calories for a given date. Also,
 logger. Finally, tap on a date in the calendar at the top to change the date and see the data for that specific date.
 
 <p float="left">
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/bodyWeight.png" width="216" height="384" />
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/bodyFat.png" width="216" height="384" /> 
-  <img src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/calories.png" width="216" height="384" />
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/bodyWeight.png" width="216" height="384" />
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/bodyFat.png" width="216" height="384" /> 
+  <img src="https://github.com/MichaelDeLisio/MyPlanBook/blob/master/doc/screenshots/calories.png" width="216" height="384" />
 </p>
