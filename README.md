@@ -30,7 +30,7 @@ https://developer.android.com/studio/run/device
 ## Financial Hub
 
 
-<img align="right" src="https://github.com/UTMCSC301/project-thebrogrammers/blob/master/doc/screenshots/financialHub.png" width="216" height="384">
+<img align="right" src="https://github.com/MichaelDeLisio/MyPlanBook/tree/master/doc/screenshots/financialHub.png" width="216" height="384">
 
 
 ### Load Transactions
